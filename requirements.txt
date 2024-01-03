@@ -2,3 +2,4 @@ Django==1.9.5
 django-crispy-forms==1.6.0
 django-registration-redux==1.4
 django-crispy-forms
+gunicorn
